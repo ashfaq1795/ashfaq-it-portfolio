@@ -64,7 +64,7 @@ A practical lab project focused on learning Windows domain services and centrali
 
 ## 🌐 Live Portfolio
 
-Visit my portfolio website: [Add your GitHub Pages URL here]
+Visit my portfolio website: https://ashfaq1795.github.io/ashfaq-it-portfolio/
 
 ## 🧰 Built With
 
